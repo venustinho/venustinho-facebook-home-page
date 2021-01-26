@@ -20,15 +20,15 @@ h3
 } 
 p
 {
-    font-size: 30px; /* paragraphe de 30 pixels */
+    font-size: 0px; /* paragraphe de 30 pixels */
 }
 h1 
 {
-    font-size: 50px; /* Titres de 50 pixels */
+    font-size: 5px; /* Titres de 5 pixels */
 }
 p
 {
-    font-size: 20px; /* paragraphe de 20 pixels */
+    font-size: 2px; /* paragraphe de 2 pixels */
 }
 h2
 {
@@ -76,7 +76,7 @@ h1
 }
 p
 {
-    text-align: right;
+    text-align: center;
 }
 h2
 {
