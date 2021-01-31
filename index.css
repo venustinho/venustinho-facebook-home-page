@@ -24,7 +24,7 @@ h3
 } 
 p
 {
-    font-size: 0px; /* paragraphe de 30 pixels */
+    font-size: 30px; /* paragraphe de 30 pixels */
 }
 h1 
 {
@@ -36,7 +36,7 @@ p
 }
 h2
 {
-    font-size: 30px; /* Titres de 30 pixels */
+    font-size: 40px; /* Titres de 40 pixels */
 }
 p
 {
@@ -44,11 +44,16 @@ p
 }
 h3
 {
-    font-size: 25px; /* Titres de 25 pixels */
+    font-size: 30px; /* Titres de 30 pixels */
+    font-family: initial;
+    text-align: left;
 }
 p
 {
-    font-size: 6px; /* Paragraphe de 6 pixels */
+    font-size: 15px; /* Paragraphe de 15 pixels */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 0,9em;
+    text-align: left;
 }
 h4
 {
@@ -60,7 +65,7 @@ p
 }
 h5
 {
-    font-size: 5px; /* Titres de 5 pixels */
+    font-size: 20px; /* Titres de 20 pixels */
 }
 p
 {
@@ -88,26 +93,19 @@ h1
 }
 p
 {
-    text-align: center;
+    text-align: left;
 }
 h2
 {
-    text-align: center;
+    text-align: right;
 }
 p
 {
-    text-align: center;
-}
-h3
-{
-    text-align: left;
-}
-p{
-    text-align: left;
+    text-align: right;
 }
 h4
 {
-    text-align: left;
+    text-align: right;
 }
 p
 {
@@ -115,21 +113,17 @@ p
 }
 h5
 {
-    text-align: left;
+    text-align: right;
 }
 p
 {
-    text-align: left;
+    text-align: right;
 }
 p
 {
     border-radius: 20px / 10px;
 }
-body
-{
-   background-image: url("neige.png"); 
-}
-<Sign up> :hover
+h5
 {
     color: green
 }
